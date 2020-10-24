@@ -1636,6 +1636,14 @@ switch(word) {
 			"\nenglish : You write with a pen" +
 			"\nfrench : Tu écris avec un stylo");
 		break;
+	case "pens" : 
+		alert(" pens : " +
+			"\n "+ x + '"stylos"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : We have pens" +
+			"\nfrench : Nous avons des stylos");
+		break;
 	case "perfect" : 
 		alert(" perfect : " +
 			"\n "+ x + '"parfaite"' + y +

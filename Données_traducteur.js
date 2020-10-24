@@ -2290,6 +2290,14 @@ switch(mot) {
 			"\nfrançais : Tu écris avec un stylo" +
 			"\nanglais : You write with a pen");
 		break;
+	case "stylos" : 
+		alert(" stylos : " +
+			"\n "+ x + '"pens"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Nous avons des stylos" +
+			"\nanglais : We have pens");
+		break;
 	case "sucre" : 
 		alert(" sucre : " +
 			"\n "+ x + '"sugar"' + y +
