@@ -1636,14 +1636,6 @@ switch(word) {
 			"\nenglish : You write with a pen" +
 			"\nfrench : Tu écris avec un stylo");
 		break;
-	case "pens" : 
-		alert(" pens : " +
-			"\n "+ x + '"stylos"' + y +
-			"\n" +
-			"\n Exemple : " +
-			"\nenglish : We have pens" +
-			"\nfrench : Nous avons des stylos");
-		break;
 	case "perfect" : 
 		alert(" perfect : " +
 			"\n "+ x + '"parfaite"' + y +
@@ -1954,6 +1946,14 @@ switch(word) {
 			"\n Exemple : " +
 			"\nenglish : Sometimes I sleep in the morning" +
 			"\nfrench : Parfois je dors le matin");
+		break;
+	case "sons" : 
+		alert(" sons : " +
+			"\n "+ x + '"fils"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : He has three sons" +
+			"\nfrench : Il a trois fils");
 		break;
 	case "sorry" : 
 		alert(" sorry : " +
