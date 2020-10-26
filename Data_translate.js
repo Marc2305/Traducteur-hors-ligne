@@ -1551,13 +1551,13 @@ switch(word) {
 			"\nenglish : He offers me his food" +
 			"\nfrench : Il m'offre sa nourriture");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "office" : 
+		alert(" office : " +
+			"\n "+ x + '"bureau"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : My father goes to his office by train" +
+			"\nfrench : Mon père va à son bureau en train");
 		break;
 	case "" : 
 		alert("  : " +

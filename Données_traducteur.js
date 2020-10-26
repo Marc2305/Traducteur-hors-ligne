@@ -488,13 +488,13 @@ switch(mot) {
 			"\nfrançais : C'est une bouteille à vin" +
 			"\nanglais : It is a wine bottle");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "bureau" : 
+		alert(" bureau : " +
+			"\n "+ x + '"office"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : Mon père va à son bureau en train" +
+			"\nanglais : My father goes to his office by train");
 		break;
 	case "bus" : 
 		alert(" bus : " +
