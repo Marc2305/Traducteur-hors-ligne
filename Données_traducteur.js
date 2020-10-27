@@ -848,6 +848,14 @@ switch(mot) {
 			"\nfrançais : Le drapeau européen" +
 			"\nanglais : The european flag");
 		break;
+	case "exemple" : 
+		alert(" exemple : " +
+			"\n "+ x + '" example"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Tu suis son exemple" +
+			"\nanglais : You follow his example");
+		break;
 
 
 	//Début lettre F : 

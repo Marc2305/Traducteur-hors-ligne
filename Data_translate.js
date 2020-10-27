@@ -718,6 +718,14 @@ switch(word) {
 			"\nenglish : The european flag" +
 			"\nfrench : Le drapeau européen");
 		break;
+	case "example" : 
+		alert(" example : " +
+			"\n "+ x + '"exemple"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : You follow his example" +
+			"\nfrench : Tu suis son exemple");
+		break;
 
 
 	//Start letter F : 
