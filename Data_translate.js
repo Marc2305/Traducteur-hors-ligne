@@ -726,6 +726,14 @@ switch(word) {
 			"\nenglish : You follow his example" +
 			"\nfrench : Tu suis son exemple");
 		break;
+	case "explanation" : 
+		alert(" explanation : " +
+			"\n "+ x + '"explication"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : Thank you for your explanation" +
+			"\nfrench : Merci pour ton explication");
+		break;
 
 
 	//Start letter F : 

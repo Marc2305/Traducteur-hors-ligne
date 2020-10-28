@@ -856,6 +856,14 @@ switch(mot) {
 			"\nfrançais : Tu suis son exemple" +
 			"\nanglais : You follow his example");
 		break;
+	case "explication" : 
+		alert(" explication : " +
+			"\n "+ x + '"explanation"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Merci pour ton explication" +
+			"\nanglais : Thank you for your explanation");
+		break;
 
 
 	//Début lettre F : 
