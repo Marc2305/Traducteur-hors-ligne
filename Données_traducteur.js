@@ -339,6 +339,14 @@ switch(mot) {
 			"\nfrançais : Appeler la police !" +
 			"\nanglais : Call the police !");
 		break;
+	case "appelle" : 
+		alert(" appelle : " +
+			"\n "+ x + '"calls"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Il appelle le médecin" +
+			"\nanglais : He calls the doctor");
+		break;
 	case "après-midi" : 
 		alert(" après-midi : " +
 			"\n "+ x + '"afternoon"' + y +

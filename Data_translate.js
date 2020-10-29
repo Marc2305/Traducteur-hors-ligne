@@ -484,13 +484,13 @@ switch(word) {
 			"\nenglish : Call the police" +
 			"\nfrench : Appeler la police");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "calls" : 
+		alert(" calls : " +
+			"\n "+ x + '"appelle"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : He calls the doctor" +
+			"\nfrench : Il appelle le docteur");
 		break;
 	case "captain" : 
 		alert(" captain : " +
