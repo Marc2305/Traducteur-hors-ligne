@@ -1830,6 +1830,14 @@ switch(word) {
 			"\nenglish : The dress is red" +
 			"\nfrench : La robe est rouge");
 		break;
+	case "report" : 
+		alert(" report : " +
+			"\n "+ x + '"rapport"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : I write a report" +
+			"\nfrench : J'écris un rapport");
+		break;
 	case "road" : 
 		alert(" road : " +
 			"\n "+ x + '"route"' + y +

@@ -2117,13 +2117,13 @@ switch(mot) {
 			"\nfrançais : " +
 			"\nanglais : ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "rapport" : 
+		alert(" rapport : " +
+			"\n "+ x + '"report"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : J'écris un rapport" +
+			"\nanglais : I write un report");
 		break;
 	case "religieux" : 
 		alert(" religieux : " +
