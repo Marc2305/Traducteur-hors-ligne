@@ -1939,6 +1939,14 @@ switch(word) {
 			"\nenglish : The shirt is for the summer" +
 			"\nfrench : La chemise est pour l'été");
 		break;
+	case "sixteen" : 
+		alert(" sixteen : " +
+			"\n "+ x + '"seize"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : My son is sixteen" +
+			"\nfrench : Mon fils a seize ans");
+		break;
 	case "sixty" : 
 		alert(" sixty : " +
 			"\n "+ x + '"soixante"' + y +

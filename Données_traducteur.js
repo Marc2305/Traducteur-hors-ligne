@@ -2226,13 +2226,13 @@ switch(mot) {
 			"\nfrançais : Ma secrétaire dort l'après-midi" +
 			"\nanglais : My secretary sleeps in the afternoon");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "seize" : 
+		alert(" seize : " +
+			"\n "+ x + '"sixteen"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : Mon fils a seize ans" +
+			"\nanglais : My son is sixteen");
 		break;
 	case "semaine" : 
 		alert(" semaine : " +
