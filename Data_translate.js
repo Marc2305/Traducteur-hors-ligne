@@ -1397,6 +1397,14 @@ switch(word) {
 			"\nenglish : I drink milk " +
 			"\nfrench : Je bois du lait");
 		break;
+	case "minutes" : 
+		alert(" minutes : " +
+			"\n "+ x + '"minutes"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : Minutes and seconds" +
+			"\nfrench : Les minutes et les secondes");
+		break;
 	case "moments" : 
 		alert(" moments : " +
 			"\n "+ x + '"moments"' + y +
@@ -1906,6 +1914,14 @@ switch(word) {
 			"\n Exemple : " +
 			"\nenglish : Summer and winter are opposite seasons" +
 			"\nfrench : L'été et l'hiver sont des saisons opposées");
+		break;
+	case "seconds" : 
+		alert(" seconds : " +
+			"\n "+ x + '"secondes"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : Minutes and seconds" +
+			"\nfrench : Les minutes et les secondes");
 		break;
 	case "secretary" : 
 		alert(" secretary : " +

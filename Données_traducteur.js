@@ -1616,13 +1616,13 @@ switch(mot) {
 			"\nfrançais : Il y en a des milliers sur nos plages" +
 			"\nanglais : There are thousands of them on our beaches");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "minutes" : 
+		alert(" minutes : " +
+			"\n "+ x + '"minutes"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : Les minutes et les secondes" +
+			"\nanglais : Minutes and seconds");
 		break;
 	case "mois" : 
 		alert(" mois : " +
@@ -2217,6 +2217,14 @@ switch(mot) {
 			"\n Exemple : " +
 			"\nfrançais : Samedi est le sixième jour de la semaine" +
 			"\nanglais : Saturday is the sixth day of the week");
+		break;
+	case "secondes" : 
+		alert(" secondes : " +
+			"\n "+ x + '"seconds"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Les minutes et les secondes" +
+			"\nanglais : Minutes and seconds");
 		break;
 	case "secrétaire" : 
 		alert(" secrétaire : " +
