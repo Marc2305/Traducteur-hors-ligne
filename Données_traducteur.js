@@ -2210,6 +2210,14 @@ switch(mot) {
 			"\nfrançais : L'été et l'hiver sont des saisons opposées" +
 			"\nanglais : Summer and winter are opposite seasons");
 		break;
+	case "salade" : 
+		alert(" salade : " +
+			"\n "+ x + '"salad"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : J'ai besoin d'une tomate pour ma salade" +
+			"\nanglais : I need one tomate for my salad");
+		break;
 	case "samedi" : 
 		alert(" samedi : " +
 			"\n "+ x + '"saturday"' + y +

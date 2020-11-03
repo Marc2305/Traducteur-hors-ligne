@@ -1899,6 +1899,14 @@ switch(word) {
 			"\nenglish :  " +
 			"\nfrench :  ");
 		break;
+	case "salad" : 
+		alert(" salad : " +
+			"\n "+ x + '"salade"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : I need one tomato for my salad" +
+			"\nfrench : J'ai besoin d'une tomate pour ma salade");
+		break;
 	case "saturday" : 
 		alert(" saturday : " +
 			"\n "+ x + '"samedi"' + y +
