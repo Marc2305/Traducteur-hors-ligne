@@ -755,6 +755,14 @@ switch(word) {
 			"\nenglish : We are family" +
 			"\nfrench : Nous sommes une famille");
 		break;
+	case "fill" : 
+		alert(" fill : " +
+			"\n "+ x + '"remplis"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : I fill the bottle with milk" +
+			"\nfrench : Je remplis la bouteille avec du lait");
+		break;
 	case "first" : 
 		alert(" first : " +
 			"\n "+ x + '"première"' + y +

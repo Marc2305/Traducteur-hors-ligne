@@ -2133,13 +2133,13 @@ switch(mot) {
 			"\nfrançais : Les églises sont des bâtiments religieux" +
 			"\nanglais : Churches are religious buildings");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "remplis" : 
+		alert(" remplis : " +
+			"\n "+ x + '"fill"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : Je remplis la bouteille avec du lait" +
+			"\nanglais : I fill the bottle with milk");
 		break;
 	case "" : 
 		alert("  : " +
