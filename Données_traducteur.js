@@ -715,6 +715,14 @@ switch(mot) {
 			"\nfrançais : Je ne suis pas disponible" +
 			"\nanglais : I am not available");
 		break;
+	case "dix-sept" : 
+		alert(" dix-sept : " +
+			"\n "+ x + '"seventeen"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Il a dix-sept ans" +
+			"\nanglais : He is seventeen");
+		break;
 	case "dort" : 
 		alert(" dort : " +
 			"\n "+ x + '"sleeps"' + y +

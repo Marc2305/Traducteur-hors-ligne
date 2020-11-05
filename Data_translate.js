@@ -1947,6 +1947,14 @@ switch(word) {
 			"\nenglish : My secretary sleeps in the afternoon " +
 			"\nfrench : Ma secrétaire dort l'après-midi ");
 		break;
+	case "seventeen" : 
+		alert(" seventeen : " +
+			"\n "+ x + '"dix-sept"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : He is seventeen" +
+			"\nfrench : Il a dix-sept ans");
+		break;
 	case "seventy" : 
 		alert(" seventy : " +
 			"\n "+ x + '"soixante-dix"' + y +
