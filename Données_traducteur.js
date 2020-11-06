@@ -731,6 +731,14 @@ switch(mot) {
 			"\nfrançais : Le garçon dort" +
 			"\nanglais : The boy sleeps");
 		break;
+	case "douze" : 
+		alert(" douze : " +
+			"\n "+ x + '"twelve"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : J'ai douze chats" +
+			"\nanglais : I have twelve cats");
+		break;
 	case "drapeau" : 
 		alert(" drapeau : " +
 			"\n "+ x + '"flag"' + y +

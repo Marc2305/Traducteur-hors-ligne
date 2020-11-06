@@ -2200,6 +2200,14 @@ switch(word) {
 			"\nenglish : We like birds, but we also like turtles" +
 			"\nfrench : Nous aimons les oiseaux, mais nous aimons aussi les tortues");
 		break;
+	case "twelve" : 
+		alert(" twelve : " +
+			"\n "+ x + '"douze"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : I have twelve cats" +
+			"\nfrench : J'ai douze chats");
+		break;
 
 
 	//Start letter U : 
