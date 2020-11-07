@@ -1041,13 +1041,13 @@ switch(word) {
 			"\nenglish :  " +
 			"\nfrench :  ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "import" : 
+		alert(" import : " +
+			"\n "+ x + '"important"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : We import coffee from Brazil" +
+			"\nfrench : Nous importons du café du Brésil");
 		break;
 	case "" : 
 		alert("  : " +

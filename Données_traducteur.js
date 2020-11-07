@@ -1212,13 +1212,13 @@ switch(mot) {
 			"\nfrançais : L'île est belle" +
 			"\nanglais : The island is beautiful");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "importons" : 
+		alert(" importons : " +
+			"\n "+ x + '"import"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : Nous importons du café du Brésil" +
+			"\nanglais : We import coffee from Brazil");
 		break;
 	case "ingénieur" : 
 		alert(" ingénieur : " +
