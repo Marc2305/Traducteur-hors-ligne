@@ -686,6 +686,14 @@ switch(word) {
 			"\nenglish : She cooks an egg in the kitchen" +
 			"\nfrench : Elle cuisine un oeuf dans la cuisine");
 		break;
+	case "elephant" : 
+		alert(" elephant : " +
+			"\n "+ x + '"éléphant"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : I have an elephant" +
+			"\nfrench : J'ai un éléphant");
+		break;
 	case "engineer" : 
 		alert(" engineer : " +
 			"\n "+ x + '"ingénieur"' + y +

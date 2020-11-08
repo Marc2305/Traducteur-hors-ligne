@@ -808,6 +808,14 @@ switch(mot) {
 			"\nfrançais : C'est la ville des églises" +
 			"\nanglais : It is the city of churches");
 		break;
+	case "éléphant" : 
+		alert(" éléphant : " +
+			"\n "+ x + '"éléphant"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : J'ai un éléphant" +
+			"\nanglais : I have an elephant");
+		break;
 	case "élèves" : 
 		alert(" élèves : " +
 			"\n "+ x + '"students"' + y +
