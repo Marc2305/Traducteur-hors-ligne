@@ -2250,6 +2250,14 @@ switch(mot) {
 			"\nfrançais : Samedi est le sixième jour de la semaine" +
 			"\nanglais : Saturday is the sixth day of the week");
 		break;
+	case "sèche" : 
+		alert(" sèche : " +
+			"\n "+ x + '"dry"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Je sèche ma chemise" +
+			"\nanglais : I dry my shirt");
+		break;
 	case "secondes" : 
 		alert(" secondes : " +
 			"\n "+ x + '"seconds"' + y +

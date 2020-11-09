@@ -617,13 +617,13 @@ switch(word) {
 			"\nenglish : He drinks milk " +
 			"\nfrench : Il boit du lait ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "dry" : 
+		alert(" dry : " +
+			"\n "+ x + '"sèche"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : I dry my shirt" +
+			"\nfrench : Je sèche ma chemise");
 		break;
 	case "duck" : 
 		alert(" duck : " +
