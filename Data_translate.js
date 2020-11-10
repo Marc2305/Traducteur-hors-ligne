@@ -956,13 +956,13 @@ switch(word) {
 			"\nenglish :  " +
 			"\nfrench :  ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "hate" : 
+		alert(" hate : " +
+			"\n "+ x + '"déteste"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : I hate Mondays" +
+			"\nfrench : Je déteste les lundis");
 		break;
 	case "" : 
 		alert("  : " +

@@ -691,6 +691,14 @@ switch(mot) {
 			"\nfrançais : Oui, je suis désolé" +
 			"\nanglais : Yes, I am sorry");
 		break;
+	case "déteste" : 
+		alert(" déteste : " +
+			"\n "+ x + '"hate"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Je déteste les lundis" +
+			"\nanglais : I hate Mondays");
+		break;
 	case "dimanche" : 
 		alert(" dimanche : " +
 			"\n "+ x + '"sunday"' + y +
