@@ -524,6 +524,14 @@ switch(word) {
 			"\nenglish : He is just a child" +
 			"\nfrench : C'est juste un enfant");
 		break;
+	case "chinese" : 
+		alert(" chinese : " +
+			"\n "+ x + '"chinois"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : I am a chinese teacher" +
+			"\nfrench : Je suis professeur de chinois");
+		break;
 	case "church" : 
 		alert(" church : " +
 			"\n "+ x + '"église"' + y +

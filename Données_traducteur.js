@@ -589,6 +589,14 @@ switch(mot) {
 			"\nfrançais : Les chiens mangent du riz" +
 			"\nanglais : The dogs eat rice");
 		break;
+	case "chinois" : 
+		alert(" chinois : " +
+			"\n "+ x + '"chinese"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Je suis professeur de chinois" +
+			"\nanglais : I am a chinese teacher");
+		break;
 	case "cible" : 
 		alert(" cible : " +
 			"\n "+ x + '"target"' + y +
