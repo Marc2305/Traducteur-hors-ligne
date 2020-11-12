@@ -880,13 +880,13 @@ switch(mot) {
 			"\nfrançais : Je vais essayer" +
 			"\nanglais : I am going to try");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "étude" : 
+		alert(" étude : " +
+			"\n "+ x + '"study"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : L'étude est importante" +
+			"\nanglais : The study is important");
 		break;
 	case "européen" : 
 		alert(" européen : " +

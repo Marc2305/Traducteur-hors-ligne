@@ -2067,6 +2067,14 @@ switch(word) {
 			"\nenglish : The soldiers walk with the students" +
 			"\nfrench : Les soldats marchent avec les élèves");
 		break;
+	case "study" : 
+		alert(" study : " +
+			"\n "+ x + '"étude"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : The study is important" +
+			"\nfrench : L'étude est importante");
+		break;
 	case "sugar" : 
 		alert(" sugar : " +
 			"\n "+ x + '"sucre"' + y +
