@@ -2487,6 +2487,14 @@ switch(mot) {
 			"\nfrançais : Aujourd'hui est le troisième jour" +
 			"\nanglais : Today is the third day");
 		break;
+	case "trouve" : 
+		alert(" trouve : " +
+			"\n "+ x + '"finds"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Il trouve un emploi" +
+			"\nanglais : He finds a job");
+		break;
 
 
 	//Début lettre U : 

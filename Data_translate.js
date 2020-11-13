@@ -779,6 +779,14 @@ switch(word) {
 			"\nenglish : I fill the bottle with milk" +
 			"\nfrench : Je remplis la bouteille avec du lait");
 		break;
+	case "finds" : 
+		alert(" finds : " +
+			"\n "+ x + '"trouve"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : He finds a job" +
+			"\nfrench : Il trouve un emploi");
+		break;
 	case "first" : 
 		alert(" first : " +
 			"\n "+ x + '"première"' + y +
