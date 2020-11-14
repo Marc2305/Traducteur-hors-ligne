@@ -2181,13 +2181,13 @@ switch(mot) {
 			"\nfrançais : Je remplis la bouteille avec du lait" +
 			"\nanglais : I fill the bottle with milk");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "réserve" : 
+		alert(" réserve : " +
+			"\n "+ x + '"reserves"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : Elle réserve une table" +
+			"\nanglais : She reserves a table");
 		break;
 	case "rose" : 
 		alert(" rose : " +

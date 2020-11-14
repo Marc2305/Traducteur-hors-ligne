@@ -1894,13 +1894,13 @@ switch(word) {
 			"\nenglish : Churches are religious buildings" +
 			"\nfrench : Les églises sont des bâtiments religieux");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "reserves" : 
+		alert(" reserves : " +
+			"\n "+ x + '"réserve"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : She reserves a table" +
+			"\nfrench : Elle réserve une table");
 		break;
 	case "runs" : 
 		alert(" runs : " +
