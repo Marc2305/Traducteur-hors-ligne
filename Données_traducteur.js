@@ -1910,6 +1910,14 @@ switch(mot) {
 			"\nfrançais : C'est ouvert" +
 			"\nanglais : It is open");
 		break;
+	case "ouvre" : 
+		alert(" ouvre : " +
+			"\n "+ x + '"opens"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Le musée ouvre à neuf heures" +
+			"\nanglais : The museum opens at nine");
+		break;
 
 
 	//Début lettre P : 

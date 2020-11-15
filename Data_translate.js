@@ -1631,13 +1631,13 @@ switch(word) {
 			"\nenglish : It is open" +
 			"\nfrench : C'est ouvert");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "opens" : 
+		alert(" opens : " +
+			"\n "+ x + '"ouvre"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : The museum opens at nine" +
+			"\nfrench : Le musée ouvre à neuf heures");
 		break;
 	case "" : 
 		alert("  : " +
