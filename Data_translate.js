@@ -580,6 +580,14 @@ switch(word) {
 			"\nenglish : John has a computer" +
 			"\nfrench : John a un ordinateur");
 		break;
+	case "cuts" : 
+		alert(" cuts : " +
+			"\n "+ x + '"coupe"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : He cuts an orange" +
+			"\nfrench : Il coupe une orange");
+		break;
 
 
 	//Start letter D : 

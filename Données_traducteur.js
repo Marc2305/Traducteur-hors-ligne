@@ -629,13 +629,13 @@ switch(mot) {
 			"\nfrançais : Mon costume" +
 			"\nanglais : My suit");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "coupe" : 
+		alert(" coupe : " +
+			"\n "+ x + '"cuts"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : Il coupe une orange" +
+			"\nanglais : He cuts an orange");
 		break;
 	case "court" : 
 		alert(" court : " +
