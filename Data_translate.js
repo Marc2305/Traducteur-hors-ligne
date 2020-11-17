@@ -1748,13 +1748,13 @@ switch(word) {
 			"\nenglish : But a prison is a prison" +
 			"\nfrench : Mais une prison est une prison");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "produces" : 
+		alert(" produces : " +
+			"\n "+ x + '"produit"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : He produces food" +
+			"\nfrench : Il produit de la nourriture");
 		break;
 	case "" : 
 		alert("  : " +

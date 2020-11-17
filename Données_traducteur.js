@@ -2051,13 +2051,13 @@ switch(mot) {
 			"\nfrançais : Mais une prison est une prison" +
 			"\nanglais : But a prison is a prison");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "produit" : 
+		alert(" produit : " +
+			"\n "+ x + '"produces"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais :  " +
-			"\nanglais :  ");
+			"\nfrançais : Il produit de la nourriture" +
+			"\nanglais : He produces food");
 		break;
 
 
