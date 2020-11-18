@@ -201,13 +201,13 @@ switch(word) {
 			"\nenglish :  " +
 			"\nfrench :  ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "adds" : 
+		alert(" adds : " +
+			"\n "+ x + '"ajoute"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : She adds the sugar" +
+			"\nfrench : Elle ajoute le sucre");
 		break;
 	case "" : 
 		alert("  : " +

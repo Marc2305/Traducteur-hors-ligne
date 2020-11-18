@@ -267,13 +267,13 @@ switch(mot) {
 			"\nfrançais : " +
 			"\nanglais : ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "ajoute" : 
+		alert(" ajoute : " +
+			"\n "+ x + '"adds"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : Elle ajoute le sucre" +
+			"\nanglais : She adds the sugar");
 		break;
 	case "" : 
 		alert("  : " +
