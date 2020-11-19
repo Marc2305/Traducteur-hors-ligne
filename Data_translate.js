@@ -265,13 +265,13 @@ switch(word) {
 			"\nenglish : The archer is strong " +
 			"\nfrench : L'archer est fort ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "assumes" : 
+		alert(" assumes : " +
+			"\n "+ x + '"suppose"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish : There are thousands of them on our beaches" +
-			"\nfrench : Il y en a des milliers sur nos plages");
+			"\nenglish : She assumes that we are wrong" +
+			"\nfrench : Elle suppose que nous avons tort");
 		break;
 	case "august" : 
 		alert(" august : " +

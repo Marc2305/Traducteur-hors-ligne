@@ -2410,6 +2410,14 @@ switch(mot) {
 			"\nfrançais : L'heure suivante" +
 			"\nanglais : The next hour");
 		break;
+	case "suppose" : 
+		alert(" suppose : " +
+			"\n "+ x + '"assumes"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Elle suppose que nous avons tort" +
+			"\nanglais : She assumes that we are wrong");
+		break;
 
 
 	//Début lettre T : 
