@@ -2051,6 +2051,14 @@ switch(word) {
 			"\nenglish : Sometimes I sleep in the morning" +
 			"\nfrench : Parfois je dors le matin");
 		break;
+	case "son" : 
+		alert(" son : " +
+			"\n "+ x + '"fils"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : My son is sixteen" +
+			"\nfrench : Mon fils a seize ans");
+		break;
 	case "sons" : 
 		alert(" sons : " +
 			"\n "+ x + '"fils"' + y +

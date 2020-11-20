@@ -965,13 +965,13 @@ switch(mot) {
 			"\nfrançais : La fille aime les chats" +
 			"\nanglais : The girl loves the cats");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "fils" : 
+		alert(" fils : " +
+			"\n "+ x + '"son"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : Mon fils a seize ans" +
+			"\nanglais : My son is sixteen");
 		break;
 	case "fraise" : 
 		alert(" fraise : " +
