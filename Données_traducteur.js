@@ -557,13 +557,13 @@ switch(mot) {
 			"\nfrançais : Je suis le capitaine" +
 			"\nanglais : I am the captain");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "chante" : 
+		alert(" chante : " +
+			"\n "+ x + '"sing"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : Je chante demain" +
+			"\nanglais : I sing tomorrow");
 		break;
 	case "chemise" : 
 		alert(" chemise : " +

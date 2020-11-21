@@ -2003,6 +2003,14 @@ switch(word) {
 			"\nenglish : The same ship is in port" +
 			"\nfrench : Le même bateau est au port");
 		break;
+	case "sing" : 
+		alert(" sing : " +
+			"\n "+ x + '"chante"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : I sing tomorrow" +
+			"\nfrench : Je chante demain");
+		break;
 	case "shirt" : 
 		alert(" shirt : " +
 			"\n "+ x + '"chemise"' + y +
