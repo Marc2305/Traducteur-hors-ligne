@@ -593,13 +593,13 @@ switch(word) {
 	//Start letter D : 
 
 
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "delivers" : 
+		alert(" delivers : " +
+			"\n "+ x + '"livre"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : He delivers the food" +
+			"\nfrench : Il livre la nourriture");
 		break;
 	case "district" : 
 		alert(" district : " +

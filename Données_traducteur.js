@@ -1539,13 +1539,13 @@ switch(mot) {
 			"\nfrançais : J'ai un livre" +
 			"\nanglais : I have a book");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "livre" : 
+		alert(" livre : " +
+			"\n "+ x + '"delivers"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : Il livre la nourriture" +
+			"\nanglais : He delivers the food");
 		break;
 	case "" : 
 		alert("  : " +
