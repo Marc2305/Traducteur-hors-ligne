@@ -2538,6 +2538,14 @@ switch(word) {
 			"\nenglish : Winter is a season of the year" +
 			"\nfrench : L'hiver est une saison de l'année");
 		break;
+	case "wishes" : 
+		alert(" wishes : " +
+			"\n "+ x + '"souhaite"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : My daughter wishes to have a horse" +
+			"\nfrench : Ma fille souhaite avoir un cheval");
+		break;
 	case "woman" : 
 		alert("woman : " +
 			"\n "+ x + '"femme"' + y +

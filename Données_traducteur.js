@@ -2370,6 +2370,14 @@ switch(mot) {
 			"\nfrançais : Les soldats marchent avec les élèves" +
 			"\nanglais : The soldiers walk with the students");
 		break;
+	case "souhaite" : 
+		alert(" souhaite : " +
+			"\n "+ x + '"wishes"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Ma fille souhaite avoir un cheval" +
+			"\nanglais : My daughter wishes to have a horse");
+		break;
 	case "souris" : 
 		alert(" souris : " +
 			"\n "+ x + '"mouse"' + y +
