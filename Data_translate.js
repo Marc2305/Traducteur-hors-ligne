@@ -225,13 +225,13 @@ switch(word) {
 			"\nenglish : It's for friday afternoon " +
 			"\nfrench : C'est pour vendredi après-midi");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "allows" : 
+		alert(" allows : " +
+			"\n "+ x + '"autorise"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : Their father allows it" +
+			"\nfrench : Leur père l'autorise");
 		break;
 	case "animal" : 
 		alert(" animal : " +

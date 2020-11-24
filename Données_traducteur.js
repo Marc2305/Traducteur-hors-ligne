@@ -395,6 +395,14 @@ switch(mot) {
 			"\nfrançais : Tu as des armes" +
 			"\nanglais : You have weapons");
 		break;
+	case "autorise" : 
+		alert(" autorise : " +
+			"\n "+ x + '"allows"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Leur pére l'autorise" +
+			"\nanglais : Their father allows it");
+		break;
 	case "avoir" : 
 		alert(" avoir : " +
 			"\n "+ x + '"to have"' + y +
