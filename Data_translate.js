@@ -1081,13 +1081,13 @@ switch(word) {
 			"\nenglish : We import coffee from Brazil" +
 			"\nfrench : Nous importons du café du Brésil");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "institute" : 
+		alert(" institute : " +
+			"\n "+ x + '"institut"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : The institute is famous" +
+			"\nfrench : L'institut est célèbre");
 		break;
 	case "" : 
 		alert("  : " +

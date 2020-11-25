@@ -1260,13 +1260,13 @@ switch(mot) {
 			"\nfrançais : L'homme est ingénieur" +
 			"\nanglais : The man is an engineer");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "institut" : 
+		alert(" institut : " +
+			"\n "+ x + '"institute"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : L'institut est célèbre" +
+			"\nanglais : The institute is famous");
 		break;
 	case "" : 
 		alert("  : " +
