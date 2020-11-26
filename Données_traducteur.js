@@ -792,13 +792,13 @@ switch(mot) {
 			"\nfrançais : " +
 			"\nanglais : ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "écris" : 
+		alert(" écris : " +
+			"\n "+ x + '"write"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : Tu écris avec un stylo" +
+			"\nanglais : You write with a pen");
 		break;
 	case "écrivain" : 
 		alert(" écrivain : " +

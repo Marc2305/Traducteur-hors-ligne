@@ -2562,13 +2562,13 @@ switch(word) {
 			"\nenglish : Men and women read" +
 			"\nfrench :  Les hommes et les femmes lisent");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "write" : 
+		alert(" write : " +
+			"\n "+ x + '"écris"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : You write with a pen" +
+			"\nfrench : Tu écris avec un stylo");
 		break;
 	case "writer" : 
 		alert(" writer : " +
