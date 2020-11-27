@@ -747,6 +747,14 @@ switch(mot) {
 			"\nfrançais : Il a dix-sept ans" +
 			"\nanglais : He is seventeen");
 		break;
+	case "documents" : 
+		alert(" documents : " +
+			"\n "+ x + '"documents"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Les documents sont sur le bureau" +
+			"\nanglais : The documents are on the desk");
+		break;
 	case "dort" : 
 		alert(" dort : " +
 			"\n "+ x + '"sleeps"' + y +
