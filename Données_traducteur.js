@@ -2338,6 +2338,14 @@ switch(mot) {
 			"\nfrançais : Il y a plusieurs semaines dans un mois" +
 			"\nanglais : There are several weeks in a month");
 		break;
+	case "sens" : 
+		alert(" sens : " +
+			"\n "+ x + '"meaning"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Le sens est général" +
+			"\nanglais : The meaning is general");
+		break;
 	case "serveur" : 
 		alert(" serveur : " +
 			"\n "+ x + '"waiter"' + y +

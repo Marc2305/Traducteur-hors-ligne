@@ -1429,6 +1429,14 @@ switch(word) {
 			"\nenglish : I'm a man" +
 			"\nfrench : Je suis un homme");
 		break;
+	case "meaning" : 
+		alert(" meaning : " +
+			"\n "+ x + '"sens"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : The meaning is general" +
+			"\nfrench : Le sens est général");
+		break;
 	case "men" : 
 		alert(" men : " +
 			"\n "+ x + '"hommes"' + y +
