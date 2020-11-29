@@ -1926,6 +1926,14 @@ switch(word) {
 			"\nenglish : She reserves a table" +
 			"\nfrench : Elle réserve une table");
 		break;
+	case "restroom" : 
+		alert(" restroom : " +
+			"\n "+ x + '"toilettes"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : Where is the restroom ?" +
+			"\nfrench : Où sont les toilettes ?");
+		break;
 	case "runs" : 
 		alert(" runs : " +
 			"\n "+ x + '"court"' + y +

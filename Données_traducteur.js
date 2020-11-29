@@ -2495,13 +2495,13 @@ switch(mot) {
 			"\nfrançais : " +
 			"\nanglais : ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "toilettes" : 
+		alert(" toilettes : " +
+			"\n "+ x + '"restroom"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : Où sont les toilettes ?" +
+			"\nanglais : Where is the restroom ?");
 		break;
 	case "tortues" : 
 		alert(" tortues : " +
