@@ -2282,6 +2282,14 @@ switch(mot) {
 			"\nfrançais : J'ai besoin d'une tomate pour ma salade" +
 			"\nanglais : I need one tomate for my salad");
 		break;
+	case "salle de bain" : 
+		alert(" salle de bain : " +
+			"\n "+ x + '"bathroom"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Où est ta salle de bain ?" +
+			"\nanglais : Where is your bathroom ?");
+		break;
 	case "samedi" : 
 		alert(" samedi : " +
 			"\n "+ x + '"saturday"' + y +

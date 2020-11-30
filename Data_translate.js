@@ -310,6 +310,14 @@ switch(word) {
 			"\nenglish : The bank is not open on Sunday" +
 			"\nfrench : La banque n'est pas ouverte le Dimanche");
 		break;
+	case "bathroom" : 
+		alert(" bathroom : " +
+			"\n "+ x + '"salle de bain"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : Where is your bathroom ?" +
+			"\nfrench : Où est ta salle de bain ?");
+		break;
 	case "battery" : 
 		alert(" battery : " +
 			"\n "+ x + '"pile"' + y +
