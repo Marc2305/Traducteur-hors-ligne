@@ -2256,6 +2256,14 @@ switch(word) {
 			"\nenglish : She sees the towers" +
 			"\nfrench : Elle voit les tours");
 		break;
+	case "train" : 
+		alert(" train : " +
+			"\n "+ x + '"train"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : My father goes to his office by train" +
+			"\nfrench : Mon père va à son bureau en train");
+		break;
 	case "tree" : 
 		alert(" tree : " +
 			"\n "+ x + '"arbre"' + y +

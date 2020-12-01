@@ -2535,6 +2535,14 @@ switch(mot) {
 			"\nfrançais : Elle voit les tours" +
 			"\nanglais : She sees the towers");
 		break;
+	case "train" : 
+		alert(" train : " +
+			"\n "+ x + '"train"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Mon père va à son bureau en train" +
+			"\nanglais : My father goes to his office by train");
+		break;
 	case "troisième" : 
 		alert(" troisième : " +
 			"\n "+ x + '"third"' + y +
