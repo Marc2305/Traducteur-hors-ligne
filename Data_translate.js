@@ -431,6 +431,14 @@ switch(word) {
 			"\nenglish : The boy eats bread" +
 			"\nfrench : Le garçon mange du pain");
 		break;
+	case "boyfriend" : 
+		alert(" boyfriend : " +
+			"\n "+ x + '"petit ami"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : I love my boyfriend" +
+			"\nfrench : J'aime mon petit ami");
+		break;
 	case "boys" : 
 		alert(" boys : " +
 			"\n "+ x + '"garçons"' + y +

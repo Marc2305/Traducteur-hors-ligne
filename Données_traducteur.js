@@ -1995,6 +1995,14 @@ switch(mot) {
 			"\nfrançais : J'ai un peigne dans mon sac à dos" +
 			"\nanglais : I have a comb in my backpack");
 		break;
+	case "petit ami" : 
+		alert(" petit ami : " +
+			"\n "+ x + '"boyfriend"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : J'aime mon petit ami" +
+			"\nanglais : I love my boyfriend");
+		break;
 	case "pile" : 
 		alert(" pile : " +
 			"\n "+ x + '"battery"' + y +
