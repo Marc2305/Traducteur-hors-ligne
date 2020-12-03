@@ -2003,6 +2003,14 @@ switch(mot) {
 			"\nfrançais : J'aime mon petit ami" +
 			"\nanglais : I love my boyfriend");
 		break;
+	case "petite amie" : 
+		alert(" petite amie : " +
+			"\n "+ x + '"girlfriend"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : J'ai une petite amie" +
+			"\nanglais : I have a girlfriend");
+		break;
 	case "pile" : 
 		alert(" pile : " +
 			"\n "+ x + '"battery"' + y +

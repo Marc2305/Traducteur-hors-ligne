@@ -912,13 +912,13 @@ switch(word) {
 			"\nenglish : The girl loves the cats " +
 			"\nfrench : La fille aime les chats ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "girlfriend" : 
+		alert(" girlfriend : " +
+			"\n "+ x + '"petite amie"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : I have a girlfriend" +
+			"\nfrench : J'ai une petite amie");
 		break;
 	case "" : 
 		alert("  : " +
