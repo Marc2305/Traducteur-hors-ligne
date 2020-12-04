@@ -792,13 +792,13 @@ switch(mot) {
 	//Début lettre E : 
 
 
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "écrire" : 
+		alert(" écrire : " +
+			"\n "+ x + '"to write"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : Elle aime écrire" +
+			"\nanglais : She likes to write");
 		break;
 	case "écris" : 
 		alert(" écris : " +

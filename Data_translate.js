@@ -2264,6 +2264,14 @@ switch(word) {
 			"\nenglish : She sees the towers" +
 			"\nfrench : Elle voit les tours");
 		break;
+	case "to write" : 
+		alert(" to write : " +
+			"\n "+ x + '"écrire"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : She likes to write" +
+			"\nfrench : Elle aime écrire");
+		break;
 	case "train" : 
 		alert(" train : " +
 			"\n "+ x + '"train"' + y +
