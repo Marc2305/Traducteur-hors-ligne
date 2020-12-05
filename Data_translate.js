@@ -2075,6 +2075,14 @@ switch(word) {
 			"\nenglish : She is almost sixty" +
 			"\nfrench : Elle a presque soixante ans");
 		break;
+	case "sleep" : 
+		alert(" sleep : " +
+			"\n "+ x + '"dormes"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : I want you to sleep" +
+			"\nfrench : Je veux que tu dormes");
+		break;
 	case "sleeps" : 
 		alert(" sleeps : " +
 			"\n "+ x + '"dort"' + y +

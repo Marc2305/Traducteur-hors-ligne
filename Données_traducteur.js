@@ -755,6 +755,14 @@ switch(mot) {
 			"\nfrançais : Les documents sont sur le bureau" +
 			"\nanglais : The documents are on the desk");
 		break;
+	case "dormes" : 
+		alert(" dormes : " +
+			"\n "+ x + '"sleep"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Je veux que tu dormes" +
+			"\nanglais : I want you to sleep");
+		break;
 	case "dort" : 
 		alert(" dort : " +
 			"\n "+ x + '"sleeps"' + y +
