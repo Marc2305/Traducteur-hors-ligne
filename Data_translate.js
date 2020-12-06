@@ -2240,13 +2240,13 @@ switch(word) {
 			"\nenglish :  " +
 			"\nfrench :  ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "to go" : 
+		alert(" to go : " +
+			"\n "+ x + '"aller"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : I am afraid to go" +
+			"\nfrench : J'ai peur d'y aller");
 		break;
 	case "to have" : 
 		alert(" to have : " +

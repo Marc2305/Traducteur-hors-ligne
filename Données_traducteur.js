@@ -291,13 +291,13 @@ switch(mot) {
 			"\nfrançais : Ton pays d'origine est l'Allemagne" +
 			"\nanglais : Your home country is Germany");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "aller" : 
+		alert(" aller : " +
+			"\n "+ x + '"to go"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : J'ai peur d'y aller" +
+			"\nanglais : I'm afraid to go");
 		break;
 	case "amour" : 
 		alert(" amour : " +
