@@ -2019,6 +2019,14 @@ switch(mot) {
 			"\nfrançais : J'ai une petite amie" +
 			"\nanglais : I have a girlfriend");
 		break;
+	case "peur" : 
+		alert(" peur : " +
+			"\n "+ x + '"afraid"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : J'ai peur d'y aller" +
+			"\nanglais : I'm afraid to go");
+		break;
 	case "pile" : 
 		alert(" pile : " +
 			"\n "+ x + '"battery"' + y +
@@ -2104,14 +2112,6 @@ switch(mot) {
 	//Début lettre Q : 
 
 
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
-			"\n" +
-			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
-		break;
 	case "" : 
 		alert("  : " +
 			"\n "+ x + '" "' + y +

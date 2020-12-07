@@ -209,13 +209,13 @@ switch(word) {
 			"\nenglish : She adds the sugar" +
 			"\nfrench : Elle ajoute le sucre");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "afraid" : 
+		alert(" afraid : " +
+			"\n "+ x + '"peur"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : J'ai peur d'y aller" +
+			"\nfrench : I'm afraid to go");
 		break;
 	case "afternoon" : 
 		alert(" afternoon : " +
