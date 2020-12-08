@@ -1579,13 +1579,13 @@ switch(mot) {
 			"\nfrançais : " +
 			"\nanglais : ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "louer" : 
+		alert(" louer : " +
+			"\n "+ x + '"rent"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : J'ai besoin de louer une voiture" +
+			"\nanglais : I need to rent a car");
 		break;
 	case "lundi" : 
 		alert(" lundi : " +

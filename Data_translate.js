@@ -1910,6 +1910,14 @@ switch(word) {
 			"\nenglish : The dress is red" +
 			"\nfrench : La robe est rouge");
 		break;
+	case "rent" : 
+		alert(" rent : " +
+			"\n "+ x + '"louer"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : I need to rent a car" +
+			"\nfrench : J'ai besoin de louer une voiture");
+		break;
 	case "report" : 
 		alert(" report : " +
 			"\n "+ x + '"rapport"' + y +
