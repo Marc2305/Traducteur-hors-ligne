@@ -2043,6 +2043,14 @@ switch(mot) {
 			"\nfrançais : Il y en a des milliers sur nos plages" +
 			"\nanglais : There are thousands of them on our beaches");
 		break;
+	case "pleut" : 
+		alert(" pleut : " +
+			"\n "+ x + '"rain"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Il ne pleut pas" +
+			"\nanglais : It does not rain");
+		break;
 	case "pomme" : 
 		alert(" pomme : " +
 			"\n "+ x + '"apple"' + y +

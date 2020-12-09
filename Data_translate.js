@@ -1886,13 +1886,13 @@ switch(word) {
 			"\nenglish :  " +
 			"\nfrench :  ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "rain" : 
+		alert(" rain : " +
+			"\n "+ x + '"pleut"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : It does not rain" +
+			"\nfrench : Il ne pleut pas");
 		break;
 	case "" : 
 		alert("  : " +
