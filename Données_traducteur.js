@@ -653,6 +653,14 @@ switch(mot) {
 			"\nfrançais : Le chien court" +
 			"\nanglais : The dog runs");
 		break;
+	case "couteau" : 
+		alert(" couteau : " +
+			"\n "+ x + '"knife"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Je ne trouve pas le couteau" +
+			"\nanglais : I don't find the knife");
+		break;
 	case "cuisine" : 
 		alert(" cuisine : " +
 			"\n "+ x + '"kitchen"' + y +

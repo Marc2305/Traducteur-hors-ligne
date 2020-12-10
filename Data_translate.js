@@ -1291,13 +1291,13 @@ switch(word) {
 			"\nenglish :  " +
 			"\nfrench :  ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "knife" : 
+		alert(" knife : " +
+			"\n "+ x + '"couteau"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : I don't find the knife" +
+			"\nfrench : Je ne trouve pas le couteau");
 		break;
 	case "" : 
 		alert("  : " +
