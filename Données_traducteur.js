@@ -763,6 +763,14 @@ switch(mot) {
 			"\nfrançais : Les documents sont sur le bureau" +
 			"\nanglais : The documents are on the desk");
 		break;
+	case "dois" : 
+		alert(" dois : " +
+			"\n "+ x + '"need"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Je dois fixer une date" +
+			"\nanglais : I need to set a date");
+		break;
 	case "dormes" : 
 		alert(" dormes : " +
 			"\n "+ x + '"sleep"' + y +

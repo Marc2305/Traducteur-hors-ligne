@@ -1546,13 +1546,13 @@ switch(word) {
 	//Start letter N : 
 
 
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "need" : 
+		alert(" need : " +
+			"\n "+ x + '"dois"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : I need to set a date" +
+			"\nfrench : Je dois fixer une date");
 		break;
 	case "newspapers" : 
 		alert(" newspapers : " +
