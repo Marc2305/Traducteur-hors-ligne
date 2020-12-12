@@ -1013,6 +1013,14 @@ switch(mot) {
 			"\nfrançais : Mon fils a seize ans" +
 			"\nanglais : My son is sixteen");
 		break;
+	case "fixer" : 
+		alert(" fixer : " +
+			"\n "+ x + '"set"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Je dois fixer une date" +
+			"\nanglais : I need to set a date");
+		break;
 	case "fraise" : 
 		alert(" fraise : " +
 			"\n "+ x + '"strawberry"' + y +

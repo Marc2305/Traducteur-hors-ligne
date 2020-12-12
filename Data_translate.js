@@ -2027,6 +2027,14 @@ switch(word) {
 			"\nenglish : My secretary sleeps in the afternoon " +
 			"\nfrench : Ma secrétaire dort l'après-midi ");
 		break;
+	case "set" : 
+		alert(" set : " +
+			"\n "+ x + '"fixer"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : I need to set a date" +
+			"\nfrench : Je dois fixer une date");
+		break;
 	case "seventeen" : 
 		alert(" seventeen : " +
 			"\n "+ x + '"dix-sept"' + y +
