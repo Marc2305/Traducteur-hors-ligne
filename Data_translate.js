@@ -2027,6 +2027,14 @@ switch(word) {
 			"\nenglish : My secretary sleeps in the afternoon " +
 			"\nfrench : Ma secrétaire dort l'après-midi ");
 		break;
+	case "sell" : 
+		alert(" sell : " +
+			"\n "+ x + '"vendre"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : What do you sell ?" +
+			"\nfrench : Qu'est ce que vous vendez ?");
+		break;
 	case "set" : 
 		alert(" set : " +
 			"\n "+ x + '"fixer"' + y +

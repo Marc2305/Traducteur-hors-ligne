@@ -2730,6 +2730,14 @@ switch(mot) {
 			"\nfrançais : Nous vivons dans la vallée" +
 			"\nanglais : We live in the valley");
 		break;
+	case "vendre" : 
+		alert(" vendre : " +
+			"\n "+ x + '"sell"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Qu'est ce que vous vendez ?" +
+			"\nanglais : What do you sell ?");
+		break;
 	case "vendredi" : 
 		alert(" vendredi : " +
 			"\n "+ x + '"friday"' + y +
