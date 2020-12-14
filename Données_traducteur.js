@@ -347,6 +347,14 @@ switch(mot) {
 			"\nfrançais : Il appelle le médecin" +
 			"\nanglais : He calls the doctor");
 		break;
+	case "apprendre" : 
+		alert(" apprendre : " +
+			"\n "+ x + '"learn"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Je veux apprendre à nager" +
+			"\nanglais : I want to learn to swim");
+		break;
 	case "après-midi" : 
 		alert(" après-midi : " +
 			"\n "+ x + '"afternoon"' + y +

@@ -1336,13 +1336,13 @@ switch(word) {
 			"\nenglish :  " +
 			"\nfrench :  ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "learn" : 
+		alert(" learn : " +
+			"\n "+ x + '"apprendre"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : I want to learn to swim" +
+			"\nfrench : Je veux apprendre à nager");
 		break;
 	case "" : 
 		alert("  : " +
