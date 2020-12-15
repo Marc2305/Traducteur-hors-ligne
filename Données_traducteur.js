@@ -581,6 +581,14 @@ switch(mot) {
 			"\nfrançais : Je chante demain" +
 			"\nanglais : I sing tomorrow");
 		break;
+	case "chaussure" : 
+		alert(" chaussure : " +
+			"\n "+ x + '"shoe"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Ma chaussure est rouge" +
+			"\nanglais : My shoe is red");
+		break;
 	case "chemise" : 
 		alert(" chemise : " +
 			"\n "+ x + '"shirt"' + y +
@@ -612,6 +620,14 @@ switch(mot) {
 			"\n Exemple : " +
 			"\nfrançais : Je suis professeur de chinois" +
 			"\nanglais : I am a chinese teacher");
+		break;
+	case "" : 
+		alert("  : " +
+			"\n "+ x + '" "' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : " +
+			"\nanglais : ");
 		break;
 	case "cible" : 
 		alert(" cible : " +

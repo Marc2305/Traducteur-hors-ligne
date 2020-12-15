@@ -2083,6 +2083,14 @@ switch(word) {
 			"\nenglish : The shirt is for the summer" +
 			"\nfrench : La chemise est pour l'été");
 		break;
+	case "shoe" : 
+		alert(" shoe : " +
+			"\n "+ x + '"chaussure"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : My shoe is red" +
+			"\nfrench : Ma chaussure est rouge");
+		break;
 	case "sixteen" : 
 		alert(" sixteen : " +
 			"\n "+ x + '"seize"' + y +
