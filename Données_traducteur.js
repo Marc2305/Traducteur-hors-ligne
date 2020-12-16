@@ -589,6 +589,14 @@ switch(mot) {
 			"\nfrançais : Ma chaussure est rouge" +
 			"\nanglais : My shoe is red");
 		break;
+	case "chaussures" : 
+		alert(" chaussures : " +
+			"\n "+ x + '"shoes"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Mes chaussures sont rouges" +
+			"\nanglais : My shoes are red");
+		break;
 	case "chemise" : 
 		alert(" chemise : " +
 			"\n "+ x + '"shirt"' + y +

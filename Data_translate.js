@@ -2091,6 +2091,14 @@ switch(word) {
 			"\nenglish : My shoe is red" +
 			"\nfrench : Ma chaussure est rouge");
 		break;
+	case "shoes" : 
+		alert(" shoes : " +
+			"\n "+ x + '"chaussures"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : My shoes are red" +
+			"\nfrench : Mes chaussures sont rouges");
+		break;
 	case "sixteen" : 
 		alert(" sixteen : " +
 			"\n "+ x + '"seize"' + y +
