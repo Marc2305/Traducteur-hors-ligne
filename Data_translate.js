@@ -2304,6 +2304,14 @@ switch(word) {
 			"\nenglish : See you tomorrow !" +
 			"\nfrench : A demain !");
 		break;
+	case "touched" : 
+		alert(" touched : " +
+			"\n "+ x + '"touchais"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : I touched the cat" +
+			"\nfrench : Je touchais le chat");
+		break;
 	case "towers" : 
 		alert(" towers : " +
 			"\n "+ x + '"tours"' + y +

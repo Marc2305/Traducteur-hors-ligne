@@ -2607,13 +2607,13 @@ switch(mot) {
 			"\nfrançais : Nous aimons les oiseaux, mais nous aimons aussi les tortues" +
 			"\nanglais : We like birds, but we also like turtles");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "touchais" : 
+		alert(" touchais : " +
+			"\n "+ x + '"touched"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : Je touchais le chat" +
+			"\nanglais : I touched the cat");
 		break;
 	case "tours" : 
 		alert(" tours : " +
