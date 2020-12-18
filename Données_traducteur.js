@@ -299,6 +299,14 @@ switch(mot) {
 			"\nfrançais : J'ai peur d'y aller" +
 			"\nanglais : I'm afraid to go");
 		break;
+	case "american" : 
+		alert(" american : " +
+			"\n "+ x + '"américain"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Sam, es-tu américain ?" +
+			"\nanglais : Sam, are you american ?");
+		break;
 	case "amour" : 
 		alert(" amour : " +
 			"\n "+ x + '"love"' + y +

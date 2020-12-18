@@ -233,6 +233,14 @@ switch(word) {
 			"\nenglish : Their father allows it" +
 			"\nfrench : Leur père l'autorise");
 		break;
+	case "american" : 
+		alert(" american : " +
+			"\n "+ x + '"americain"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : Sam, are you american ?" +
+			"\nfrench : Sam, es-tu américain ?");
+		break;
 	case "animal" : 
 		alert(" animal : " +
 			"\n "+ x + '"animal"' + y +
