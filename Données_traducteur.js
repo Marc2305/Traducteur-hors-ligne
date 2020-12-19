@@ -920,6 +920,14 @@ switch(mot) {
 			"\nfrançais : Les soldats marchent avec les élèves" +
 			"\nanglais : The soldiers walk with the students");
 		break;
+	case "elle" : 
+		alert(" elle : " +
+			"\n "+ x + '"she"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Elle est belle" +
+			"\nanglais : She's beautiful");
+		break;
 	case "enfant" : 
 		alert(" enfant : " +
 			"\n "+ x + '"child"' + y +

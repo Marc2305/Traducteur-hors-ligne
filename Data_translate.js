@@ -2083,6 +2083,14 @@ switch(word) {
 			"\nenglish : I sing tomorrow" +
 			"\nfrench : Je chante demain");
 		break;
+	case "she" : 
+		alert(" she : " +
+			"\n "+ x + '"elle"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : She's beautiful" +
+			"\nfrench : Elle est belle");
+		break;
 	case "shirt" : 
 		alert(" shirt : " +
 			"\n "+ x + '"chemise"' + y +
