@@ -1020,13 +1020,13 @@ switch(word) {
 			"\nenglish : I hate Mondays" +
 			"\nfrench : Je déteste les lundis");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "he" : 
+		alert(" he : " +
+			"\n "+ x + '"il"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : He is red" +
+			"\nfrench : Il est rouge");
 		break;
 	case "" : 
 		alert("  : " +

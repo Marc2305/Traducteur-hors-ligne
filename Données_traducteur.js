@@ -1316,13 +1316,13 @@ switch(mot) {
 			"\nfrançais : " +
 			"\nanglais : ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "il" : 
+		alert(" il : " +
+			"\n "+ x + '"he"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : Il est rouge" +
+			"\nanglais : He is red");
 		break;
 	case "île" : 
 		alert(" île : " +
