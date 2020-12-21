@@ -185,13 +185,13 @@ switch(word) {
 	//Start letter A :
 
 
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "a" : 
+		alert(" a : " +
+			"\n "+ x + '"un"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : A cat and a mouse" +
+			"\nfrench : Un chat et une souris");
 		break;
 	case "" : 
 		alert("  : " +
