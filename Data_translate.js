@@ -193,13 +193,13 @@ switch(word) {
 			"\nenglish : A cat and a mouse" +
 			"\nfrench : Un chat et une souris");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "a" : 
+		alert(" a : " +
+			"\n "+ x + '"une"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : A mouse and a cat" +
+			"\nfrench : Une souris et un chat");
 		break;
 	case "adds" : 
 		alert(" adds : " +

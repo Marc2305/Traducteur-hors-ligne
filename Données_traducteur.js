@@ -2732,13 +2732,13 @@ switch(mot) {
 			"\nfrançais : Un chat et une souris" +
 			"\nanglais : A cat and a mouse");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "une" : 
+		alert(" une : " +
+			"\n "+ x + '"a"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : Une souris et un chat" +
+			"\nanglais : A mouse and a cat");
 		break;
 	case "" : 
 		alert("  : " +
