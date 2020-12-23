@@ -1732,6 +1732,14 @@ switch(word) {
 			"\nenglish : The parties are in February" +
 			"\nfrench : Les fêtes sont en Février");
 		break;
+	case "passport" : 
+		alert(" passport : " +
+			"\n "+ x + '"passeport"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : I have a passport" +
+			"\nfrench : J'ai un passeport");
+		break;
 	case "pen" : 
 		alert(" pen : " +
 			"\n "+ x + '"stylo"' + y +

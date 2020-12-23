@@ -2067,6 +2067,14 @@ switch(mot) {
 			"\nfrançais : Parfois je dors le matin" +
 			"\nanglais : Sometimes I sleep in the morning");
 		break;
+	case "passeport" : 
+		alert(" passeport : " +
+			"\n "+ x + '"passport"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : J'ai un passeport" +
+			"\nanglais : I have a passport");
+		break;
 	case "peigne" : 
 		alert(" peigne : " +
 			"\n "+ x + '"comb"' + y +
