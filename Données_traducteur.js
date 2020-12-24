@@ -472,6 +472,14 @@ switch(mot) {
 			"\nfrançais : Tu es bilingue" +
 			"\nanglais : You are bilingual");
 		break;
+	case "billet" : 
+		alert(" billet : " +
+			"\n "+ x + '"ticket"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Où est mon billet ?" +
+			"\nanglais : Where is my ticket ?");
+		break;
 	case "blanc" : 
 		alert(" blanc : " +
 			"\n "+ x + '"white"' + y +

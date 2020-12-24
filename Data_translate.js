@@ -2288,6 +2288,14 @@ switch(word) {
 			"\nenglish : Thursday is the fourth day of the week" +
 			"\nfrench : Le jeudi est le quatruème jour de la semaine");
 		break;
+	case "ticket" : 
+		alert(" ticket : " +
+			"\n "+ x + '"billet"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : Where is my ticket ?" +
+			"\nfrench : Où est mon billet ?");
+		break;
 	case "time" : 
 		alert(" time : " +
 			"\n "+ x + '"temps"' + y +
