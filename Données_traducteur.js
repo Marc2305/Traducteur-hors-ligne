@@ -504,6 +504,14 @@ switch(mot) {
 			"\nfrançais : Les voitures sont blanches" +
 			"\nanglais : The cars are white");
 		break;
+	case "blouson" : 
+		alert(" blouson : " +
+			"\n "+ x + '"jacket"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : J'ai un blouson bleu" +
+			"\nanglais : I have a blue jacket");
+		break;
 	case "boit" : 
 		alert(" boit : " +
 			"\n "+ x + '"drinks"' + y +

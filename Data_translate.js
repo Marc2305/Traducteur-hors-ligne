@@ -1166,13 +1166,13 @@ switch(word) {
 			"\nenglish :  " +
 			"\nfrench :  ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "jacket" : 
+		alert(" jacket : " +
+			"\n "+ x + '"blouson"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : I have a blue jacket" +
+			"\nfrench : J'ai un blouson bleu");
 		break;
 	case "" : 
 		alert("  : " +
