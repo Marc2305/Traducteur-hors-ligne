@@ -1610,17 +1610,17 @@ switch(word) {
 			"\nenglish :  " +
 			"\nfrench :  ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "number" : 
+		alert(" number : " +
+			"\n "+ x + '"nombre"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : Fifteen is a number" +
+			"\nfrench : Quinze est un nombre");
 		break;
 	case "" : 
 		alert("  : " +
-			"\n "+ x + '"   "' + y +
+			"\n "+ x + '" "' + y +
 			"\n" +
 			"\n Exemple : " +
 			"\nenglish :  " +
