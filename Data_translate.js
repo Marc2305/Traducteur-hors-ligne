@@ -1618,13 +1618,13 @@ switch(word) {
 			"\nenglish : Fifteen is a number" +
 			"\nfrench : Quinze est un nombre");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "numbers" : 
+		alert(" numbers : " +
+			"\n "+ x + '"nombres"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : Twelve, fourteen and fifteen are numbers" +
+			"\nfrench : Douze, quatorze et quinze sont des nombres");
 		break;
 
 

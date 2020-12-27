@@ -1881,13 +1881,13 @@ switch(mot) {
 			"\nfrançais : Quinze est un nombre" +
 			"\nanglais : Fifteen is a number");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "nombres" : 
+		alert(" nombres : " +
+			"\n "+ x + '"numbers"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : Douze, quatorze et quinze sont des nombres" +
+			"\nanglais : Twelve, fourteen and fifteen are numbers");
 		break;
 	case "" : 
 		alert("  : " +
