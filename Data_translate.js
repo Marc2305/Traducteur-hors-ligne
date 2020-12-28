@@ -1360,13 +1360,13 @@ switch(word) {
 			"\nenglish :  " +
 			"\nfrench :  ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "lemon" : 
+		alert(" lemon : " +
+			"\n "+ x + '"citron"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : I have a lemon, he is yellow" +
+			"\nfrench : J'ai un citron, il est jaune");
 		break;
 	case "" : 
 		alert("  : " +

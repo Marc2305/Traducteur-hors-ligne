@@ -677,6 +677,14 @@ switch(mot) {
 			"\nfrançais : Le cinéma est à droite du restaurant" +
 			"\nanglais : The cinema is to the right of the restaurant");
 		break;
+	case "citron" : 
+		alert(" citron : " +
+			"\n "+ x + '"lemon"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : J'ai un citron, il est jaune" +
+			"\nanglais : I have a lemon, he is yellow");
+		break;
 	case "cloche" : 
 		alert(" cloche : " +
 			"\n "+ x + '"bell"' + y +
