@@ -1897,13 +1897,13 @@ switch(mot) {
 			"\nfrançais : Douze, quatorze et quinze sont des nombres" +
 			"\nanglais : Twelve, fourteen and fifteen are numbers");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "non" : 
+		alert(" non : " +
+			"\n "+ x + '"no"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : La réponse est non" +
+			"\nanglais : The answer is no");
 		break;
 	case "nuit" : 
 		alert(" nuit : " +

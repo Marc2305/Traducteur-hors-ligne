@@ -1602,13 +1602,13 @@ switch(word) {
 			"\nenglish :  " +
 			"\nfrench :  ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "no" : 
+		alert(" no : " +
+			"\n "+ x + '"non"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : The answer is no" +
+			"\nfrench : La réponse est non");
 		break;
 	case "number" : 
 		alert(" number : " +
