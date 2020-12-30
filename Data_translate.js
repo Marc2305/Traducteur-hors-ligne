@@ -249,6 +249,14 @@ switch(word) {
 			"\nenglish : The animal drinks during the night " +
 			"\nfrench : L'animal boit pendant la nuit");
 		break;
+	case "answer" : 
+		alert(" answer : " +
+			"\n "+ x + '"réponse"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : The answer is yes" +
+			"\nfrench : La réponse est oui");
+		break;
 	case "apple" : 
 		alert(" apple : " +
 			"\n "+ x + '"   "' + y +

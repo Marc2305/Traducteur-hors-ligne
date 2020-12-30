@@ -2341,6 +2341,14 @@ switch(mot) {
 			"\nfrançais : Je remplis la bouteille avec du lait" +
 			"\nanglais : I fill the bottle with milk");
 		break;
+	case "réponse" : 
+		alert(" réponse : " +
+			"\n "+ x + '"answer"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : La réponse est oui" +
+			"\nanglais : The answer is yes");
+		break;
 	case "réserve" : 
 		alert(" réserve : " +
 			"\n "+ x + '"reserves"' + y +
