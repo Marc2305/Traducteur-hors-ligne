@@ -710,13 +710,13 @@ switch(word) {
 			"\nenglish :  " +
 			"\nfrench :  ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "after" : 
+		alert(" after : " +
+			"\n "+ x + '"après"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : After one, it is two" +
+			"\nfrench : Après un, c'est deux");
 		break;
 	case "" : 
 		alert("  : " +

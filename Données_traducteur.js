@@ -363,6 +363,14 @@ switch(mot) {
 			"\nfrançais : Je veux apprendre à nager" +
 			"\nanglais : I want to learn to swim");
 		break;
+	case "après" : 
+		alert(" après : " +
+			"\n "+ x + '"after"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Après un, c'est deux" +
+			"\nanglais : After one, it is two");
+		break;
 	case "après-midi" : 
 		alert(" après-midi : " +
 			"\n "+ x + '"afternoon"' + y +
