@@ -641,6 +641,14 @@ switch(word) {
 			"\nenglish : The district is in the capital" +
 			"\nfrench : Le quartier est dans la capitale");
 		break;
+	case "document" : 
+		alert(" document : " +
+			"\n "+ x + '"document"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : He has the document" +
+			"\nfrench : Il a le document");
+		break;
 	case "documents" : 
 		alert(" documents : " +
 			"\n "+ x + '"documents"' + y +

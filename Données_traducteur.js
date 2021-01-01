@@ -827,6 +827,14 @@ switch(mot) {
 			"\nfrançais : Il a dix-sept ans" +
 			"\nanglais : He is seventeen");
 		break;
+	case "document" : 
+		alert(" document : " +
+			"\n "+ x + '"document"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Il a le document" +
+			"\nanglais : He has the document");
+		break;
 	case "documents" : 
 		alert(" documents : " +
 			"\n "+ x + '"documents"' + y +
