@@ -677,6 +677,14 @@ switch(mot) {
 			"\nfrançais : J'ai une cible" +
 			"\nanglais : I have a target");
 		break;
+	case "cibles" : 
+		alert(" cibles : " +
+			"\n "+ x + '"targets"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Les deux cibles sont rouges" +
+			"\nanglais : The two targets are red");
+		break;
 	case "cinéma" : 
 		alert(" cinéma : " +
 			"\n "+ x + '"cinema"' + y +

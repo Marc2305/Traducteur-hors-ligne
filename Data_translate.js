@@ -2280,6 +2280,14 @@ switch(word) {
 			"\nenglish : I have a target" +
 			"\nfrench : J'ai une cible");
 		break;
+	case "targets" : 
+		alert(" targets : " +
+			"\n "+ x + '"cibles"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : The two targets are red" +
+			"\nfrench : Les deux cibles sont rouges");
+		break;
 	case "third" : 
 		alert(" third : " +
 			"\n "+ x + '"troisième"' + y +
