@@ -2639,13 +2639,13 @@ switch(mot) {
 			"\nfrançais : " +
 			"\nanglais : ");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "taille" : 
+		alert(" taille : " +
+			"\n "+ x + '"height"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : Il a une petite taille" +
+			"\nanglais : He has a little height");
 		break;
 	case "temps" : 
 		alert(" temps : " +

@@ -1044,13 +1044,13 @@ switch(word) {
 			"\nenglish : He is red" +
 			"\nfrench : Il est rouge");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "height" : 
+		alert(" height : " +
+			"\n "+ x + '"taille"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : He has a little height" +
+			"\nfrench : Il a une petite taille");
 		break;
 	case "horse" : 
 		alert(" horse : " +
