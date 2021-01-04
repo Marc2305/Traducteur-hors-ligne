@@ -2906,13 +2906,13 @@ switch(mot) {
 			"\nfrançais : John veut une fraise" +
 			"\nanglais : John wants a strawberry");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "voiture" : 
+		alert(" voiture : " +
+			"\n "+ x + '"car"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : La voiture est verte" +
+			"\nanglais : The car is green");
 		break;
 	case "" : 
 		alert("  : " +
