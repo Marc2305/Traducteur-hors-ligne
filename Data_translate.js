@@ -540,6 +540,14 @@ switch(word) {
 			"\nenglish : The car is green" +
 			"\nfrench : La voiture est verte");
 		break;
+	case "cars" : 
+		alert(" cars : " +
+			"\n "+ x + '"voitures"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : The cars are red" +
+			"\nfrench : Les voitures sont rouges");
+		break;
 	case "" : 
 		alert("  : " +
 			"\n "+ x + '"   "' + y +

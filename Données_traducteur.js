@@ -2914,13 +2914,13 @@ switch(mot) {
 			"\nfrançais : La voiture est verte" +
 			"\nanglais : The car is green");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "voitures" : 
+		alert(" voitures : " +
+			"\n "+ x + '"cars"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais :  " +
-			"\nanglais :  ");
+			"\nfrançais : Les voitures sont rouges" +
+			"\nanglais : The cars are red");
 		break;
 
 
