@@ -548,13 +548,13 @@ switch(word) {
 			"\nenglish : The cars are red" +
 			"\nfrench : Les voitures sont rouges");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "chicken" : 
+		alert(" chicken : " +
+			"\n "+ x + '"poulet"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : I have a chicken" +
+			"\nfrench : J'ai un poulet");
 		break;
 	case "child" : 
 		alert(" child : " +

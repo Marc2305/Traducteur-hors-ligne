@@ -2219,6 +2219,14 @@ switch(mot) {
 			"\nfrançais : Le même bâteau est au port" +
 			"\nanglais : The same ship is in port");
 		break;
+	case "poulet" : 
+		alert(" poulet : " +
+			"\n "+ x + '"chicken"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : J'ai un poulet" +
+			"\nanglais : I have a chicken");
+		break;
 	case "première" : 
 		alert(" première : " +
 			"\n "+ x + '"first"' + y +
