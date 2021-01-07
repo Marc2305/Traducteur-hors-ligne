@@ -556,6 +556,14 @@ switch(word) {
 			"\nenglish : I have a chicken" +
 			"\nfrench : J'ai un poulet");
 		break;
+	case "chickens" : 
+		alert(" chickens : " +
+			"\n "+ x + '"poulets"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : The chickens run" +
+			"\nfrench : Les poulets courent");
+		break;
 	case "child" : 
 		alert(" child : " +
 			"\n "+ x + '"enfant"' + y +

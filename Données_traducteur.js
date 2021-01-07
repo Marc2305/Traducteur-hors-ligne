@@ -2227,6 +2227,14 @@ switch(mot) {
 			"\nfrançais : J'ai un poulet" +
 			"\nanglais : I have a chicken");
 		break;
+	case "poulets" : 
+		alert(" poulets : " +
+			"\n "+ x + '"chickens"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Les poules courent" +
+			"\nanglais : The chickens run");
+		break;
 	case "première" : 
 		alert(" première : " +
 			"\n "+ x + '"first"' + y +
