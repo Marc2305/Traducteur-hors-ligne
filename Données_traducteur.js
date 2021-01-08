@@ -331,6 +331,14 @@ switch(mot) {
 			"\nfrançais : L'animal boit pendant la nuit" +
 			"\nanglais : The animal drinks during the night");
 		break;
+	case "animaux" : 
+		alert(" animaux : " +
+			"\n "+ x + '"animals"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Tu as des animaux" +
+			"\nanglais : You have animals");
+		break;
 	case "août" : 
 		alert(" août : " +
 			"\n "+ x + '"august"' + y +

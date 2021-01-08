@@ -246,6 +246,14 @@ switch(word) {
 			"\n "+ x + '"animal"' + y +
 			"\n" +
 			"\n Exemple : " +
+			"\nenglish : You have animals " +
+			"\nfrench : Tu as des animaux");
+		break;
+	case "animal" : 
+		alert(" animal : " +
+			"\n "+ x + '"animal"' + y +
+			"\n" +
+			"\n Exemple : " +
 			"\nenglish : The animal drinks during the night " +
 			"\nfrench : L'animal boit pendant la nuit");
 		break;
