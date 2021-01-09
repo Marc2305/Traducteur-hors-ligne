@@ -2195,6 +2195,14 @@ switch(word) {
 			"\nenglish : The boy sleeps" +
 			"\nfrench : Le garçon dort");
 		break;
+	case "small" : 
+		alert(" small : " +
+			"\n "+ x + '"petit"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nenglish : My sandwich is small" +
+			"\nfrench : Mon sandwich est petit");
+		break;
 	case "soldiers" : 
 		alert(" soldiers : " +
 			"\n "+ x + '"soldats"' + y +

@@ -2139,6 +2139,14 @@ switch(mot) {
 			"\nfrançais : J'ai un peigne dans mon sac à dos" +
 			"\nanglais : I have a comb in my backpack");
 		break;
+	case "petit" : 
+		alert(" petit : " +
+			"\n "+ x + '"small"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : Mon sandwich est petit" +
+			"\nanglais : My sandwich is small");
+		break;
 	case "petit ami" : 
 		alert(" petit ami : " +
 			"\n "+ x + '"boyfriend"' + y +
