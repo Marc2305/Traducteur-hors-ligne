@@ -1412,13 +1412,13 @@ switch(mot) {
 			"\nfrançais : L'institut est célèbre" +
 			"\nanglais : The institute is famous");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '" "' + y +
+	case "intelligente" : 
+		alert(" intelligente : " +
+			"\n "+ x + '"intelligent"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nfrançais : " +
-			"\nanglais : ");
+			"\nfrançais : Je suis une personne intelligent" +
+			"\nanglais : I am an intelligent person");
 		break;
 	case "italien" : 
 		alert(" italien : " +

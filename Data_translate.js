@@ -1161,13 +1161,13 @@ switch(word) {
 			"\nenglish : The institute is famous" +
 			"\nfrench : L'institut est célèbre");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "intelligent" : 
+		alert(" intelligent : " +
+			"\n "+ x + '"intelligente"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : I am an intelligent person" +
+			"\nfrench : Je suis une personne intelligente");
 		break;
 	case "island" : 
 		alert(" island : " +
