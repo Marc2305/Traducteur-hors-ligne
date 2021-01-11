@@ -2938,6 +2938,14 @@ switch(mot) {
 			"\nfrançais : John veut une fraise" +
 			"\nanglais : John wants a strawberry");
 		break;
+	case "violet" : 
+		alert(" violet : " +
+			"\n "+ x + '"purple"' + y +
+			"\n" +
+			"\n Exemple : " +
+			"\nfrançais : The wall is purple" +
+			"\nanglais : Le mur est violet");
+		break;
 	case "voiture" : 
 		alert(" voiture : " +
 			"\n "+ x + '"car"' + y +

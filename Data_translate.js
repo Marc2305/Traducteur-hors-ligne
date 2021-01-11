@@ -1844,13 +1844,13 @@ switch(word) {
 			"\nenglish : He produces food" +
 			"\nfrench : Il produit de la nourriture");
 		break;
-	case "" : 
-		alert("  : " +
-			"\n "+ x + '"   "' + y +
+	case "purple" : 
+		alert(" purple : " +
+			"\n "+ x + '"violet"' + y +
 			"\n" +
 			"\n Exemple : " +
-			"\nenglish :  " +
-			"\nfrench :  ");
+			"\nenglish : The wall is purple" +
+			"\nfrench : Le mur est violet");
 		break;
 
 
