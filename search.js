@@ -86,4 +86,18 @@ function Search (searchName) {
             }
         }
     }
+
+    if (result === 0) {
+        for (iIndex = 0; i >LengthAnnexeFRListG ; i++){
+            if(searchName === AnnexeFRListG[i]){
+                result = 1;
+                return(
+                    AnnexeFRListG
+                )
+            }
+            else {
+                result = 0;
+            }
+        }
+    }
 }
