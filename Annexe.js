@@ -42,30 +42,31 @@ const LengthAnnexeFRListG = AnnexeFRListG.length;
 
 
 
-const AnnexeFRListH = ["heures","hiver","homme","hommes",];
+const AnnexeFRListH = ["heures","hiver","homme","hommes"];
 const LengthAnnexeFRListH = AnnexeFRListH.length;
 
 
 
-const AnnexeFRListI = ["il","île","importons","ingénieur","institut","intelligente",];
+const AnnexeFRListI = ["il","île","importons","ingénieur","institut","intelligente"];
 const LengthAnnexeFRListI = AnnexeFRListI.length;
 
 
 
-const AnnexeFRListJ = [];
-const LengthAnnexeFRListI = AnnexeFRListJ.length;
+const AnnexeFRListJ = ["jeudi","journaux","juge","juges","juste"];
+const LengthAnnexeFRListJ = AnnexeFRListJ.length;
 
 
 
 const AnnexeFRListK = [];
-const LengthAnnexeFRListI = AnnexeFRListK.length;
+const LengthAnnexeFRListK = AnnexeFRListK.length;
 
 
 
-const AnnexeFRListL = [];
-const LengthAnnexeFRListI = AnnexeFRListL.length;
+const AnnexeFRListL = ["lait","lieux","lit","livre","livre (vb)","louer","lundi"];
+const LengthAnnexeFRListL = AnnexeFRListL.length;
 
 
 
-const AnnexeFRListM = [];
-const LengthAnnexeFRListI = AnnexeFRListM.length;
+const AnnexeFRListM = ["magazines", "maisons","marche","mardi","matin","mercredi","milliers",
+    "minutes","mois","moments","montre","mot","moyenne","musée"];
+const LengthAnnexeFRListM = AnnexeFRListM.length;

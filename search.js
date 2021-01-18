@@ -100,4 +100,86 @@ function Search (searchName) {
             }
         }
     }
+    if (result === 0) {
+        for (iIndex = 0; i >LengthAnnexeFRListH ; i++){
+            if(searchName === AnnexeFRListH[i]){
+                result = 1;
+                return(
+                    AnnexeFRListH
+                )
+            }
+            else {
+                result = 0;
+            }
+        }
+    }
+
+    if (result === 0) {
+        for (iIndex = 0; i >LengthAnnexeFRListI ; i++){
+            if(searchName === AnnexeFRListI[i]){
+                result = 1;
+                return(
+                    AnnexeFRListI
+                )
+            }
+            else {
+                result = 0;
+            }
+        }
+    }
+    if (result === 0) {
+        for (iIndex = 0; i >LengthAnnexeFRListJ ; i++){
+            if(searchName === AnnexeFRListJ[i]){
+                result = 1;
+                return(
+                    AnnexeFRListJ
+                )
+            }
+            else {
+                result = 0;
+            }
+        }
+    }
+
+    if (result === 0) {
+        for (iIndex = 0; i >LengthAnnexeFRListK ; i++){
+            if(searchName === AnnexeFRListK[i]){
+                result = 1;
+                return(
+                    AnnexeFRListK
+                )
+            }
+            else {
+                result = 0;
+            }
+        }
+    }
+
+    if (result === 0) {
+        for (iIndex = 0; i >LengthAnnexeFRListL ; i++){
+            if(searchName === AnnexeFRListL[i]){
+                result = 1;
+                return(
+                    AnnexeFRListL
+                )
+            }
+            else {
+                result = 0;
+            }
+        }
+    }
+
+    if (result === 0) {
+        for (iIndex = 0; i >LengthAnnexeFRListM ; i++){
+            if(searchName === AnnexeFRListM[i]){
+                result = 1;
+                return(
+                    AnnexeFRListM
+                )
+            }
+            else {
+                result = 0;
+            }
+        }
+    }
 }
