@@ -70,3 +70,14 @@ const LengthAnnexeFRListL = AnnexeFRListL.length;
 const AnnexeFRListM = ["magazines", "maisons","marche","mardi","matin","mercredi","milliers",
     "minutes","mois","moments","montre","mot","moyenne","musée"];
 const LengthAnnexeFRListM = AnnexeFRListM.length;
+
+
+
+const AnnexeFRListN = ["naissance","nombre","nombres","non","nuit",];
+const LengthAnnexeFRListN = AnnexeFRListN.length;
+
+
+
+const AnnexeFRListO = ["oeuf","offre","oiseau","oiseaux","oncle","ordinateur","ouest",
+    "oui","ours","ouvert","ouvre",];
+const LengthAnnexeFRListO = AnnexeFRListO.length;

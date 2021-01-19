@@ -182,4 +182,32 @@ function Search (searchName) {
             }
         }
     }
+
+    if (result === 0) {
+        for (iIndex = 0; i >LengthAnnexeFRListN ; i++){
+            if(searchName === AnnexeFRListN[i]){
+                result = 1;
+                return(
+                    AnnexeFRListN[i]
+                )
+            }
+            else {
+                result = 0;
+            }
+        }
+    }
+
+    if (result === 0) {
+        for (iIndex = 0; i >LengthAnnexeFRListO ; i++){
+            if(searchName === AnnexeFRListO[i]){
+                result = 1;
+                return(
+                    AnnexeFRListO[i]
+                )
+            }
+            else {
+                result = 0;
+            }
+        }
+    }
 }
