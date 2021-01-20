@@ -81,3 +81,15 @@ const LengthAnnexeFRListN = AnnexeFRListN.length;
 const AnnexeFRListO = ["oeuf","offre","oiseau","oiseaux","oncle","ordinateur","ouest",
     "oui","ours","ouvert","ouvre",];
 const LengthAnnexeFRListO = AnnexeFRListO.length;
+
+
+
+const AnnexeFRListP = ["pain","pantalon","parapluie","parfaite","parfois","passeport",
+    "peigne","petit","petit ami","petite amie","peur","plages","pleut","pomme","pommes",
+    "populaire","port","poulet","poulets","première","prison","produit",];
+const LengthAnnexeFRListP = AnnexeFRListP.length;
+
+
+
+const AnnexeFRListQ = ["quartier","quatrième",];
+const LengthAnnexeFRListQ = AnnexeFRListQ.length;
