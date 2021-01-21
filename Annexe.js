@@ -93,3 +93,9 @@ const LengthAnnexeFRListP = AnnexeFRListP.length;
 
 const AnnexeFRListQ = ["quartier","quatrième",];
 const LengthAnnexeFRListQ = AnnexeFRListQ.length;
+
+
+
+const AnnexeFRListR = ["rapport","religieux","remplis","réponse","réserve","rose",
+"rouge","route",];
+const LengthAnnexeFRListR = AnnexeFRListR.length;
