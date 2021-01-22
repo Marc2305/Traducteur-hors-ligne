@@ -99,3 +99,26 @@ const LengthAnnexeFRListQ = AnnexeFRListQ.length;
 const AnnexeFRListR = ["rapport","religieux","remplis","réponse","réserve","rose",
 "rouge","route",];
 const LengthAnnexeFRListR = AnnexeFRListR.length;
+
+
+
+const AnnexeFRListS = ["saisons","salade","salle de bain","samedi","sèche","secondes",
+    "secrétaire","seize","semaine","semaines","sens","serveur","serveuse","soixante",
+    "soixante-dix","soldats","soleil","souhaite","souris","stylo","stylos","sucre",
+    "suivante","suppose",];
+const LengthAnnexeFRListS = AnnexeFRListS.length;
+
+
+
+const AnnexeFRListT = [];
+const LengthAnnexeFRListT = AnnexeFRListT.length;
+
+
+
+const AnnexeFRListU = [];
+const LengthAnnexeFRListU = AnnexeFRListU.length;
+
+
+
+const AnnexeFRListV = [];
+const LengthAnnexeFRListV = AnnexeFRListV.length;
