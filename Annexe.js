@@ -110,7 +110,8 @@ const LengthAnnexeFRListS = AnnexeFRListS.length;
 
 
 
-const AnnexeFRListT = [];
+const AnnexeFRListT = ["taille","temps","toilettes","tortues","touchais",
+    "tours","train","troisième","trouve",];
 const LengthAnnexeFRListT = AnnexeFRListT.length;
 
 
