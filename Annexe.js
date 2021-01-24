@@ -116,10 +116,11 @@ const LengthAnnexeFRListT = AnnexeFRListT.length;
 
 
 
-const AnnexeFRListU = [];
+const AnnexeFRListU = ["un","une",];
 const LengthAnnexeFRListU = AnnexeFRListU.length;
 
 
 
-const AnnexeFRListV = [];
+const AnnexeFRListV = ["vallée","vendre","vendredi","vert","verte","vertes","verts",
+    "veut","violet","voiture","voitures",];
 const LengthAnnexeFRListV = AnnexeFRListV.length;
