@@ -124,3 +124,23 @@ const LengthAnnexeFRListU = AnnexeFRListU.length;
 const AnnexeFRListV = ["vallée","vendre","vendredi","vert","verte","vertes","verts",
     "veut","violet","voiture","voitures",];
 const LengthAnnexeFRListV = AnnexeFRListV.length;
+
+
+
+const AnnexeFRListW = [];
+const LengthAnnexeFRListW = AnnexeFRListW.length;
+
+
+
+const AnnexeFRListX = [];
+const LengthAnnexeFRListX = AnnexeFRListX.length;
+
+
+
+const AnnexeFRListY = [];
+const LengthAnnexeFRListY = AnnexeFRListY.length;
+
+
+
+const AnnexeFRListZ = ["zoo"];
+const LengthAnnexeFRListZ = AnnexeFRListZ.length;
