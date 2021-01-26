@@ -144,3 +144,11 @@ const LengthAnnexeFRListY = AnnexeFRListY.length;
 
 const AnnexeFRListZ = ["zoo"];
 const LengthAnnexeFRListZ = AnnexeFRListZ.length;
+
+
+
+
+const AnnexeENListA = ["a","adds","afraid","after","afternoon","allows",
+    "american","animal","animals","answer","apple","apples","archer","assumes",
+    "august","available","average",];
+const LengthAnnexeENListA = AnnexeENListA.length;
