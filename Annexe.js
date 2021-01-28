@@ -163,5 +163,17 @@ const LengthAnnexeENListB = AnnexeENListB.length;
 
 
 
-const AnnexeENListC = [];
+const AnnexeENListC = ["calendar","call","calls","captain","car","cars",
+    "chicken","chickens","child","chinese","church","churches","cinema",
+    "coffee","comb","computer",];
 const LengthAnnexeENListC = AnnexeENListC.length;
+
+
+
+const AnnexeENListD = [];
+const LengthAnnexeENListD = AnnexeENListD.length;
+
+
+
+const AnnexeENListE = [];
+const LengthAnnexeENListE = AnnexeENListE.length;
