@@ -170,7 +170,8 @@ const LengthAnnexeENListC = AnnexeENListC.length;
 
 
 
-const AnnexeENListD = [];
+const AnnexeENListD = ["delivers","district","document","documents","dogs",
+    "drinks","dry","duck",];
 const LengthAnnexeENListD = AnnexeENListD.length;
 
 
