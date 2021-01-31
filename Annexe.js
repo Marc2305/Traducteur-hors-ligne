@@ -178,3 +178,29 @@ const LengthAnnexeENListD = AnnexeENListD.length;
 
 const AnnexeENListE = ["efficient","egg","engineer","england","european","example"];
 const LengthAnnexeENListE = AnnexeENListE.length;
+
+
+
+const AnnexeENListF = ["families","family","fill","finds","first","flag",
+	"fourth","friday","fruit",];
+const LengthAnnexeFRListF = AnnexeENListF.length;
+
+
+
+const AnnexeENListF = [];
+const LengthAnnexeFRListF = AnnexeENListF.length;
+
+
+
+const AnnexeENListF = [];
+const LengthAnnexeFRListF = AnnexeENListF.length;
+
+
+
+const AnnexeENListF = [];
+const LengthAnnexeFRListF = AnnexeENListF.length;
+
+
+
+const AnnexeENListF = [];
+const LengthAnnexeFRListF = AnnexeENListF.length;
