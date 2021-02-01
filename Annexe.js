@@ -187,18 +187,19 @@ const LengthAnnexeFRListF = AnnexeENListF.length;
 
 
 
-const AnnexeENListF = [];
-const LengthAnnexeFRListF = AnnexeENListF.length;
+const AnnexeENListG = ["generation","germany","girl","girlfriend",
+    "grandfather","grandmother","green",];
+const LengthAnnexeFRListG = AnnexeENListG.length;
 
 
 
-const AnnexeENListF = [];
-const LengthAnnexeFRListF = AnnexeENListF.length;
+const AnnexeENListH = [];
+const LengthAnnexeFRListH = AnnexeENListH.length;
 
 
 
-const AnnexeENListF = [];
-const LengthAnnexeFRListF = AnnexeENListF.length;
+const AnnexeENListI = [];
+const LengthAnnexeFRListI = AnnexeENListI.length;
 
 
 
