@@ -193,7 +193,7 @@ const LengthAnnexeFRListG = AnnexeENListG.length;
 
 
 
-const AnnexeENListH = [];
+const AnnexeENListH = ["hate","he","height","horse","hours","houses",];
 const LengthAnnexeFRListH = AnnexeENListH.length;
 
 
