@@ -203,5 +203,6 @@ const LengthAnnexeFRListI = AnnexeENListI.length;
 
 
 
-const AnnexeENListF = [];
+const AnnexeENListF = ["families","family","fill","finds","first",
+    "flag","fourth","friday","fruit"];
 const LengthAnnexeFRListF = AnnexeENListF.length;
