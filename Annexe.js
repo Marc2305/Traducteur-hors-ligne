@@ -203,7 +203,7 @@ const LengthAnnexeFRListI = AnnexeENListI.length;
 
 
 
-const AnnexeENListJ = [""];
+const AnnexeENListJ = ["", "jacket", "judge", "judges", "just",];
 const LengthAnnexeFRListJ = AnnexeENListJ.length;
 
 
