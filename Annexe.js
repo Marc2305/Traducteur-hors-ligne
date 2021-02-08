@@ -218,5 +218,26 @@ const LengthAnnexeFRListL = AnnexeENListL.length;
 
 
 
-const AnnexeENListM = [""];
+const AnnexeENListM = ["magazines","man","meaning","men","milk","minutes","moments",
+    "monday","month","months","morning","mouse","museum"];
 const LengthAnnexeFRListM = AnnexeENListM.length;
+
+
+
+const AnnexeENListN = [""];
+const LengthAnnexeFRListN = AnnexeENListN.length;
+
+
+
+const AnnexeENListO = [""];
+const LengthAnnexeFRListO = AnnexeENListO.length;
+
+
+
+const AnnexeENListP = [""];
+const LengthAnnexeFRListP = AnnexeENListP.length;
+
+
+
+const AnnexeENListQ = [""];
+const LengthAnnexeFRListQ = AnnexeENListQ.length;
