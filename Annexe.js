@@ -224,12 +224,13 @@ const LengthAnnexeFRListM = AnnexeENListM.length;
 
 
 
-const AnnexeENListN = [""];
+const AnnexeENListN = ["need","newspapers","next",
+    "night","no","number","numbers",];
 const LengthAnnexeFRListN = AnnexeENListN.length;
 
 
 
-const AnnexeENListO = [""];
+const AnnexeENListO = ["offers","office","open","opens",];
 const LengthAnnexeFRListO = AnnexeENListO.length;
 
 
