@@ -225,7 +225,7 @@ const LengthAnnexeFRListM = AnnexeENListM.length;
 
 
 const AnnexeENListN = ["need","newspapers","next",
-    "night","no","number","numbers",];
+    "night","no","number","numbers"];
 const LengthAnnexeFRListN = AnnexeENListN.length;
 
 
@@ -235,7 +235,8 @@ const LengthAnnexeFRListO = AnnexeENListO.length;
 
 
 
-const AnnexeENListP = [""];
+const AnnexeENListP = ["pants","parties","passport","pen","perfect","pink",
+    "places","popular","port","prison","produces","purple"];
 const LengthAnnexeFRListP = AnnexeENListP.length;
 
 
