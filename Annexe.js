@@ -242,4 +242,10 @@ const LengthAnnexeFRListP = AnnexeENListP.length;
 
 
 const AnnexeENListQ = [""];
-const LengthAnnexeFRListQ = AnnexeENListQ.length;
+const LengthAnnexENListQ = AnnexeENListQ.length;
+
+
+
+const AnnexeENListR = ["rain","red","religious","rent","report","reserves",
+    "restroom","road","runs",];
+const LengthAnnexeFRListR = AnnexeENListR.length;
