@@ -249,3 +249,11 @@ const LengthAnnexENListQ = AnnexeENListQ.length;
 const AnnexeENListR = ["rain","red","religious","rent","report","reserves",
     "restroom","road","runs",];
 const LengthAnnexeFRListR = AnnexeENListR.length;
+
+
+
+const AnnexeENListS = ["salad", "saturday","seasons","seconds","secretary","sell",
+    "set","seventy","she","ship","shirt","shoe","shoes","sing","sixteen","sixty","sleep",
+    "sleeps", "small","soldiers", "sometimes","son","sons","sorry","strawberry",
+    "students","study","sugar","suit","sun","sunday",];
+const LengthAnnexENListS = AnnexeENListS.length;
