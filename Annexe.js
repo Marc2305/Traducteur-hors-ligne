@@ -247,7 +247,7 @@ const LengthAnnexENListQ = AnnexeENListQ.length;
 
 
 const AnnexeENListR = ["rain","red","religious","rent","report","reserves",
-    "restroom","road","runs",];
+    "restroom","road","runs"];
 const LengthAnnexeFRListR = AnnexeENListR.length;
 
 
@@ -255,5 +255,27 @@ const LengthAnnexeFRListR = AnnexeENListR.length;
 const AnnexeENListS = ["salad", "saturday","seasons","seconds","secretary","sell",
     "set","seventy","she","ship","shirt","shoe","shoes","sing","sixteen","sixty","sleep",
     "sleeps", "small","soldiers", "sometimes","son","sons","sorry","strawberry",
-    "students","study","sugar","suit","sun","sunday",];
+    "students","study","sugar","suit","sun","sunday"];
 const LengthAnnexENListS = AnnexeENListS.length;
+
+
+
+const AnnexeENListT = ["target","targets","thousands","third","thursday","ticket",
+    "time", "to go", "to have", "tomorrow", "touched", "towers","to write", "train",
+    "tree","try","tuesday","turtles","twelve"];
+const LengthAnnexENListT = AnnexeENListT.length;
+
+
+
+const AnnexeENListU = [""];
+const LengthAnnexENListU = AnnexeENListU.length;
+
+
+
+const AnnexeENListV = [""];
+const LengthAnnexENListV = AnnexeENListV.length;
+
+
+
+const AnnexeENListW = [""];
+const LengthAnnexENListW = AnnexeENListW.length;
