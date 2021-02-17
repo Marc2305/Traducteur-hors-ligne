@@ -277,7 +277,9 @@ const LengthAnnexENListV = AnnexeENListV.length;
 
 
 
-const AnnexeENListW = [""];
+const AnnexeENListW = ["waiter","waitress","walks","wants","watch",
+    "weapon","weapons","wednesday","week","weeks","west",
+    "white","winter","wishes","woman","women","write","writer",];
 const LengthAnnexENListW = AnnexeENListW.length;
 
 
