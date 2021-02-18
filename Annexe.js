@@ -149,6 +149,9 @@ const LengthAnnexeFRListZ = AnnexeFRListZ.length;
 
 
 
+
+
+
 const AnnexeENListA = ["a","adds","afraid","after","afternoon","allows",
     "american","animal","animals","answer","apple","apples","archer","assumes",
     "august","available","average"];
@@ -183,38 +186,38 @@ const LengthAnnexeENListE = AnnexeENListE.length;
 
 const AnnexeENListF = ["families","family","fill","finds","first","flag",
 	"fourth","friday","fruit"];
-const LengthAnnexeFRListF = AnnexeENListF.length;
+const LengthAnnexeENListF = AnnexeENListF.length;
 
 
 
 const AnnexeENListG = ["generation","germany","girl","girlfriend",
     "grandfather","grandmother","green"];
-const LengthAnnexeFRListG = AnnexeENListG.length;
+const LengthAnnexeENListG = AnnexeENListG.length;
 
 
 
 const AnnexeENListH = ["hate","he","height","horse","hours","houses"];
-const LengthAnnexeFRListH = AnnexeENListH.length;
+const LengthAnnexeENListH = AnnexeENListH.length;
 
 
 
 const AnnexeENListI = ["import","institute","intelligent","island"];
-const LengthAnnexeFRListI = AnnexeENListI.length;
+const LengthAnnexeENListI = AnnexeENListI.length;
 
 
 
 const AnnexeENListJ = ["jacket", "judge", "judges", "just",];
-const LengthAnnexeFRListJ = AnnexeENListJ.length;
+const LengthAnnexeENListJ = AnnexeENListJ.length;
 
 
 
 const AnnexeENListK = ["kitchen", "knife"];
-const LengthAnnexeFRListK = AnnexeENListK.length;
+const LengthAnnexeENListK = AnnexeENListK.length;
 
 
 
 const AnnexeENListL = ["learn", "lemon", "love"];
-const LengthAnnexeFRListL = AnnexeENListL.length;
+const LengthAnnexeENListL = AnnexeENListL.length;
 
 
 
