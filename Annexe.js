@@ -299,3 +299,8 @@ const LengthAnnexENListY = AnnexeENListY.length;
 
 const AnnexeENListZ = [""];
 const LengthAnnexENListZ = AnnexeENListZ.length;
+
+
+const ALLAnnexeENList = [AnnexeENListA, AnnexeENListB, AnnexeENListC, AnnexeENListD,
+AnnexeENListE, AnnexeENListF, AnnexeENListG, AnnexeENListH, AnnexeENListI,AnnexeENListJ,
+AnnexeENListK, AnnexeENListL];
