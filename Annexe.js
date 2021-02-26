@@ -302,7 +302,7 @@ const LengthAnnexENListZ = AnnexeENListZ.length;
 
 
 const AllAnnexeFRList = [AnnexeFRListA, AnnexeFRListB, AnnexeFRListC, AnnexeFRListD, AnnexeFRListE,
-AnnexeFRListF];
+AnnexeFRListF, AnnexeFRListG, AnnexeFRListH];
 
 
 const ALLAnnexeENList = [AnnexeENListA, AnnexeENListB, AnnexeENListC, AnnexeENListD,
