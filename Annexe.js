@@ -305,7 +305,7 @@ const AllAnnexeFRList = [AnnexeFRListA, AnnexeFRListB, AnnexeFRListC, AnnexeFRLi
 AnnexeFRListF, AnnexeFRListG, AnnexeFRListH, AnnexeFRListI, AnnexeFRListJ, AnnexeFRListK,
 AnnexeFRListL, AnnexeFRListM, AnnexeFRListN, AnnexeFRListO, AnnexeFRListP, AnnexeFRListQ,
 AnnexeFRListR, AnnexeFRListS, AnnexeFRListT, AnnexeFRListU, AnnexeFRListV, AnnexeFRListW,
-AnnexeFRListX];
+AnnexeFRListX, AnnexeFRListY];
 
 
 const ALLAnnexeENList = [AnnexeENListA, AnnexeENListB, AnnexeENListC, AnnexeENListD,
