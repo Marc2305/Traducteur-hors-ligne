@@ -313,3 +313,8 @@ AnnexeENListE, AnnexeENListF, AnnexeENListG, AnnexeENListH, AnnexeENListI,Annexe
 AnnexeENListK, AnnexeENListL, AnnexeENListM, AnnexeENListN, AnnexeENListO, AnnexeENListP,
 AnnexeENListQ, AnnexeENListR, AnnexeENListS, AnnexeENListT, AnnexeENListU, AnnexeENListV,
 AnnexeENListW, AnnexeENListX, AnnexeENListY, AnnexeENListZ];
+
+
+for (let AllListFR = 0 ; AllListFR < AllAnnexeFRList.length ; AllListFR++){
+    
+}
