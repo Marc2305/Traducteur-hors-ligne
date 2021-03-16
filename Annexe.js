@@ -318,7 +318,7 @@ AnnexeENListW, AnnexeENListX, AnnexeENListY, AnnexeENListZ];
 for (let AllListFR = 0 ; AllListFR < AllAnnexeFRList.length ; AllListFR++){
     for (ListAnnexeFR = 0 ; ListAnnexeFR < AllAnnexeFRList[AllListFR].length ; ListAnnexeFR++){
         if(Search === AllAnnexeFRList[AllListFR[ListAnnexeFR]]){
-            
+            alert(`Résultat : ${AllAnnexeFRList[AllListFR[ListAnnexeFR]]}`)
         }
     }
 }
