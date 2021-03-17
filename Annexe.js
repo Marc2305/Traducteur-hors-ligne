@@ -320,5 +320,10 @@ for (let AllListFR = 0 ; AllListFR < AllAnnexeFRList.length ; AllListFR++){
         if(Search === AllAnnexeFRList[AllListFR[ListAnnexeFR]]){
             alert(`Résultat : ${AllAnnexeFRList[AllListFR[ListAnnexeFR]]}`)
         }
+        else if (Search !== AllAnnexeFRList[AllListFR[ListAnnexeFR]]){
+            continue
+        }
     }
 }
+
+console.log("recherche fini");
