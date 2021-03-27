@@ -309,7 +309,7 @@ AnnexeFRListX, AnnexeFRListY, AnnexeFRListZ];
 
 const AllLengthFRList = [LengthAnnexeFRListA, LengthAnnexeFRListB, LengthAnnexeFRListC, 
 LengthAnnexeFRListD, LengthAnnexeFRListE, LengthAnnexeFRListF, LengthAnnexeFRListG, 
-LengthAnnexeFRListH, LengthAnnexeFRListI, LengthAnnexeFRListJ];
+LengthAnnexeFRListH, LengthAnnexeFRListI, LengthAnnexeFRListJ, LengthAnnexeFRListK];
 
 
 const ALLAnnexeENList = [AnnexeENListA, AnnexeENListB, AnnexeENListC, AnnexeENListD,
